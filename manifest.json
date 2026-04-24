@@ -9,9 +9,6 @@
         "default_icon": "popup/icon.png"
       },
     "permissions": ["storage"],
-    "host_permissions":[
-        "https://steady.page/*"
-    ],
     "content_scripts": [
         {
         "matches":[
